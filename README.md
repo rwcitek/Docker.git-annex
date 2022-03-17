@@ -1,7 +1,7 @@
 # Docker.git-annex
 Docker container with git-annex and a tutorial built in.
 
-These are my initial notes based on notes from [Art Barnes](https://github.com/bluejuniper).
+These are my initial notes based on [notes](http://lists.nmglug.org/pipermail/nmglug-nmglug.org/2022-March/005881.html) from [Art Barnes](https://github.com/bluejuniper).
 
 Eventually, I'd like to get these into a Jupyter notebook, which is more suited for a step-by-step tutorial.
 
